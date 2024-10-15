@@ -68,12 +68,19 @@ Before running this project, ensure you have the following installed:
 ## API Endpoints
 
   GET / - Home page.
+  
   GET /home - Redirects to home page.
+  
   GET /register - Displays registration form.
+  
   POST /register - Registers a new user.
+  
   GET /login - Displays login form.
+  
   POST /login - Authenticates a user.
+  
   GET /weather - Fetches weather data for a given address (query parameter address is required).
+  
   GET / - 404 error page for any undefined routes.
 
 
@@ -84,7 +91,10 @@ Before running this project, ensure you have the following installed:
 ## Acknowledgements
 
   Express.js
+  
   Handlebars
+  
   Node.js
+  
   MongoDB
 
